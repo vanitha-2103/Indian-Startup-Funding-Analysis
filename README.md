@@ -58,6 +58,6 @@ Understanding funding distribution, investor sentiment, and geographic hubs acro
 **Vanitha N**  
 *Aspiring Data Analyst | SQL | Power BI | Excel*  
 
-* **LinkedIn:** [Vanitha N Profile](https://linkedin.com/in/vanitha-n-161a043b3)  
+* **LinkedIn:** [Vanitha N Profile][(https://www.linkedin.com/in/vanitha-data-analyst/)]
 * **Email:** vanithavijay2103@gmail.com  
 * **GitHub:** [vanitha-2103](https://github.com/vanitha-2103)
